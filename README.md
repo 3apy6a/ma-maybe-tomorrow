@@ -13,3 +13,4 @@ After you can clone and build the project.
 
 **Remind!**
 Use branch for work, dont work in stage. 
+Use pull-request to add code from you branch in stage.
